@@ -1,2 +1,2 @@
 # Facebook-scripts
-Dump Respository for snippets I make in my free time lmao xD
+Respository for code snippets for small tasks of automation using python and javascript
